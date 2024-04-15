@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-img{
+.logo-Dropbox{
     height: 2rem;
 }
 header{
@@ -110,6 +110,7 @@ main{
 
 .last-card{
     width: 100%;
+    height: 20rem;
     background-color: #b4d0e7;
     margin-top: 3rem;
 }
@@ -117,4 +118,20 @@ main{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+}
+.opz-partner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.desc-partner{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    padding: 2rem;
+}
+.logo-partner{
+    width: 280%;
+    height: auto;
 }
