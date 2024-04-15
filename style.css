@@ -29,5 +29,45 @@ li{
     padding: 0 2rem 0 2rem;
 }
 .Button-t1{
+    background-color: #0061ff;
+    color: white;
+    border: 0; 
+    padding: 0.5rem .75rem;
 
+}
+.sub-header{
+    display: flex;
+    align-items: center;
+    background-color: #b4d0e7;
+    padding-top: 5rem;
+    flex-direction: column;
+}
+.Jumbone{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+}
+.Sub-Jumbone{
+    display: flex;
+    align-items: flex-start;
+    width: 80%;
+}
+.Colon-Sub-Jumbone{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-around;
+    padding-top: 5rem;
+}
+.img-jumbo{
+    width: auto;
+    height: 20rem;
+    position: relative; 
+    top: 5rem;
 }
