@@ -189,14 +189,37 @@ main{
     display: flex;
     width: 15rem;
     height: 15rem;
+    align-items: center;
+    justify-content: center;
     
 }
+.img-box{
+   width: 60%;
+   height: auto;
+   
+}
+
 .verde{
     background-color: #d1e9cd;
 }
+.verde-dentro-verde{
+    display: flex;
+    width: 14rem;
+    height: 14rem;
+    align-items: center;
+    justify-content: center;
+    background-color: #a2d39b;
+}
+
+.img-inside-box{
+    width: 70%;
+    height: auto; 
+}
+
 .azzurro{
     background-color: #0093ce;
 }
+
 
 .bordeaux{
     background-color: #61082b;
