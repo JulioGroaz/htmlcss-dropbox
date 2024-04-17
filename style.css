@@ -297,3 +297,72 @@ main{
     align-items: start;
     justify-content: center;
 }
+
+.domande-frequenti{
+    width: 61%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5rem;
+}
+
+.section-domande{
+    border-bottom: 1px solid black;
+    padding: 2rem 2rem 2rem 0rem;
+}
+.top-domande{
+    padding-bottom: 3rem;
+}
+.flex-domande{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}
+footer{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    color: white;
+    width: 100%;
+    height: 35rem;
+}
+.dimensioni{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.footer-ul{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-around;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.column-ul{
+    display: flex;
+    flex-direction: column;
+}
+
+.li-padding-h3{
+    padding-bottom: 2rem;
+}
+.li-padding{
+    padding-bottom: 1rem;
+}
+
+.lingua{
+    width: 8rem;
+    border-top: 1px solid white;
+   
+}
+.lingua-e-linea{
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: .5rem
+}
+  
